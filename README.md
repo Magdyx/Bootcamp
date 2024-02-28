@@ -1,4 +1,4 @@
-# MCIT Watsonx Bootcamp - Egypt: Foundations of watsonx.ai 
+# MCIT Watsonx Bootcamp - Egypt: Foundations of watsonx.ai (05-06 March 2024)
 
 ## Agenda
 
