@@ -6,6 +6,6 @@ Read through the notebook to understand how it approached the challenge of class
 
 ### Get Started
 
-Now, open [news-article-classification notebook](./news-article-classification.ipynb) to get started. How much can you improve model performance?
+Now, open [news-article-classification] notebook(./news-article-classification.ipynb) to get started. How much can you improve model performance?
 
 
